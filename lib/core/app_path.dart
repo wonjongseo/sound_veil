@@ -1,5 +1,5 @@
 class AppPath {
-  static const String rootSoundsAssets = 'sounds'; // dont insert assets
+  static const String rootSoundsAssets = 'assets/sounds'; // dont insert assets
   static const String rootLottieAssets = 'assets/data';
 
   static const String waterSound = '$rootSoundsAssets/water.mp3';

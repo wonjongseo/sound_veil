@@ -1,8 +1,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_timer_countdown/flutter_timer_countdown.dart';
 import 'package:for_private/core/admob/global_banner_admob.dart';
+import 'package:for_private/core/enum/sound_and_lottie.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
 
