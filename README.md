@@ -1,17 +1,22 @@
-# for_private
+# 한국어
 
-A new Flutter project.
+화장실에서 볼 일을 볼 때 등 자신의 소리가 주변사람들이 듣지 못하게 하고싶을 때가 있습니다.
+자신의 소리를 이 앱으로 없애요.
 
-## Getting Started
+# 日本語
 
-This project is a starting point for a Flutter application.
+トイレで用を足すときなど、自分の声が周りの人に聞こえないようにしたいときがあります。
+自分の声をこのアプリで消しましょう。
 
-A few resources to get you started if this is your first Flutter project:
+# English
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+There are times when you want to prevent people around you from hearing your own sound, such as when you are doing something to do in the bathroom.
+Get rid of your sound with this app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# sound_veil
+![alt text](<kr Every pet 30.jpg>)
+
+![alt text](<kr Every pet 31.jpg>)
+
+![alt text](<kr Every pet 32.jpg>)
+
+![alt text](<kr Every pet 33.jpg>)
